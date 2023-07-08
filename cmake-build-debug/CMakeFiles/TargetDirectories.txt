@@ -1,0 +1,3 @@
+C:/Users/ASUS/CLionProjects/RubiksCubeSolverV1/cmake-build-debug/CMakeFiles/RubiksCubeSolverV1.dir
+C:/Users/ASUS/CLionProjects/RubiksCubeSolverV1/cmake-build-debug/CMakeFiles/edit_cache.dir
+C:/Users/ASUS/CLionProjects/RubiksCubeSolverV1/cmake-build-debug/CMakeFiles/rebuild_cache.dir
