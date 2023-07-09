@@ -61,6 +61,12 @@ build CMakeFiles/RubiksCubeSolverV1.dir/RubiksCube.cpp.obj: CXX_COMPILER__Rubiks
   OBJECT_DIR = CMakeFiles\RubiksCubeSolverV1.dir
   OBJECT_FILE_DIR = CMakeFiles\RubiksCubeSolverV1.dir
 
+build CMakeFiles/RubiksCubeSolverV1.dir/RubiksCube1dArray.cpp.obj: CXX_COMPILER__RubiksCubeSolverV1_Debug C$:/Users/ASUS/CLionProjects/RubiksCubeSolverV1/RubiksCube1dArray.cpp || cmake_object_order_depends_target_RubiksCubeSolverV1
+  DEP_FILE = CMakeFiles\RubiksCubeSolverV1.dir\RubiksCube1dArray.cpp.obj.d
+  FLAGS = -g -fdiagnostics-color=always
+  OBJECT_DIR = CMakeFiles\RubiksCubeSolverV1.dir
+  OBJECT_FILE_DIR = CMakeFiles\RubiksCubeSolverV1.dir
+
 
 # =============================================================================
 # Link build statements for EXECUTABLE target RubiksCubeSolverV1
@@ -69,7 +75,7 @@ build CMakeFiles/RubiksCubeSolverV1.dir/RubiksCube.cpp.obj: CXX_COMPILER__Rubiks
 #############################################
 # Link the executable RubiksCubeSolverV1.exe
 
-build RubiksCubeSolverV1.exe: CXX_EXECUTABLE_LINKER__RubiksCubeSolverV1_Debug CMakeFiles/RubiksCubeSolverV1.dir/main.cpp.obj CMakeFiles/RubiksCubeSolverV1.dir/RubiksCube.cpp.obj
+build RubiksCubeSolverV1.exe: CXX_EXECUTABLE_LINKER__RubiksCubeSolverV1_Debug CMakeFiles/RubiksCubeSolverV1.dir/main.cpp.obj CMakeFiles/RubiksCubeSolverV1.dir/RubiksCube.cpp.obj CMakeFiles/RubiksCubeSolverV1.dir/RubiksCube1dArray.cpp.obj
   FLAGS = -g
   LINK_LIBRARIES = -lkernel32 -luser32 -lgdi32 -lwinspool -lshell32 -lole32 -loleaut32 -luuid -lcomdlg32 -ladvapi32
   OBJECT_DIR = CMakeFiles\RubiksCubeSolverV1.dir
